@@ -1,6 +1,19 @@
 # Pyber_Analysis: A Visual Guide for Data
 ## Overview of the PyBer Data Analysis
-- The purpose of this project was utilizing the Python and Pandas skills that I have learned to create a data summary over the analysis of ride-sharing data in different city types. The caveat to this data analysis however was the inclusion of a visual depiction of what the data told. The task of creating a visual representation of our data analysis would be achieved by using Python, Pandas, and Matplotlib to create a multiple-line graph that would showcase our results of the ride sharing data to our partner Omar and higher management people such as V.Isualize.  
+- The purpose of this project was utilizing the Python and Pandas skills that I have learned to create a data summary over the analysis of ride-sharing data in different city types. The caveat to this data analysis however was the inclusion of a visual depiction of what the data told. The task of creating a visual representation of our data analysis would be achieved by using Python, Pandas, and Matplotlib to create a multiple-line graph that would showcase our results of the ride sharing data to our partner Omar and higher management people such as V.Isualize. The ride sharing data was based on three different city types, during the year 2019, from people that used the ride sharing app in the city types of: rural, suburban, and urban.
 
 ## Results
+### PyBer Summary Dataframe Image
 ![](images/pyber_summary_data_frame.png) 
+- The image above is the PyBer ride share data analysis summary dataframe. This image provides a summary of our data that was specifically processed, collected, and formatted by Python coding and Pandas data framing. From the data summary dataframe, the ride sharing data can be examined in various parts based on the formatted columns of: total rides, total, drivers, total fares, average fare per ride, and total fare by city type. As previously mentioned, the data of the ride sharing app are from the three different city types, here are the differences:
+
+  - **Total Rides**
+      - From the total rides column of the Ride Sharing Data summary dataframe we are able to see that each city type had varying numbers of people calling for rides. The city with the most people using the ride sharing app was the city type "Urban" with 1625 rides. Coming in second with the most rides was the "Suburban" city type with 625 total rides. The city type "Rural" came in last with only 125 total rides. 
+ 
+  - **Total Drivers**
+      - From the total drivers column of the Ride Sharing Data summary dataframe we are able to see that each city type had different numbers of drivers working for the app to provide rides. The city with the most drivers available to provide rides was the "Urban" city type with 2405 drivers. The "Suburban" city type came in second with 490 drivers, and in third was the "Rural" city type with 78 drivers. 
+      
+  - **Total Faress**
+      - From the total fares column of the Ride Sharing Data summary dataframe we are able to see the total amount of fare(or money) each city type had made. The "Urban" city type came out with the highest fare collected at about $39,854.38. The "Suburban" city type collected a total fare of about $19,356.33, and the lowest total fare collected the "Rural" city type with about $4,327.93. 
+      
+     
