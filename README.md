@@ -31,6 +31,6 @@
       
       3. Addressing low numbers of app users in rural and suburban city types by adjusting average fare per ride prices to make it more affordable and incentivize app users to use the app for transportation. More marketing and ad campaigns in these low profit grossing city types will hopefully lead to an uptake in ride sharing app usage.
   
-  - Below is the multiple-line chart to further demonstrate our PyBer Data Analysis, which showcases "Total Fare by City Type"
+  - Below is the multiple-line chart demonstrating our PyBer Data Analysis for "Total Fare by City Type"
   ![](analysis/PyBer_fare_summary.png)
      
