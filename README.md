@@ -21,6 +21,8 @@
   
   - **Average Fare Per Driver**
       - From the average fare per driver column of the Ride Sharing Data summary dataframe, we are able to see the average fare each driver by city type charged. The highest fare per driver went to the "Rural" city type at about $55.49. The second highest fare per driver belonged to the "Suburban" city type at about $39.50. In third with the lowest fare per driver was the "Urban" city type as the average fare was about $16.57. 
+
+## Summary of the PyBer Analysis: 3 Business Recommendations
     
       
      
