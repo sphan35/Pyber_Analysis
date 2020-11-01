@@ -23,6 +23,14 @@
       - From the average fare per driver column of the Ride Sharing Data summary dataframe, we are able to see the average fare each driver by city type charged. The highest fare per driver went to the "Rural" city type at about $55.49. The second highest fare per driver belonged to the "Suburban" city type at about $39.50. In third with the lowest fare per driver was the "Urban" city type as the average fare was about $16.57. 
 
 ## Summary of the PyBer Analysis: 3 Business Recommendations
-    
+  - Based on our results from the PyBer Ride Sharing data analysis, here are three business recommendations that could be used by upper management to address disparities in the data, based among the city types.
+  
+      1. Expanding the range of the datae/time frame in order to collect more data for analysis. The current data examined only accounted for the year 2019. Looking further down the date/time frame will allow for more data to be analyzed and ensure no anomalies occur. 
       
+      2. Calculating the average money lossed from app users cancelling car rides due to there not being enough drivers to pick up riders. Identifying the losses each city type accrues can provide important feedback for adjustments that can   improve profit and app-user convenience. 
+      
+      3. Addressing low numbers of app users in rural and suburban city types by adjusting average fare per ride prices to make it more affordable and incentivize app users to use the app for transportation. More marketing and ad campaigns in these low profit grossing city types will hopefully lead to an uptake in ride sharing app usage.
+  
+  - Below is the multiple-line chart to further demonstrate our PyBer Data Analysis, which showcases "Total Fare by City Type"
+  ![](analysis/PyBer_fare_summary.png)
      
